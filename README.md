@@ -1,5 +1,16 @@
 # Sequence Alignment Game
 
+**Número da Lista**:  <br>
+**Conteúdo da Disciplina**: Programação dinâmica <br>
+
+## Alunos
+|Matrícula | Aluno |
+| -- | -- |
+| 211042327  |  Carlos Gabriel Cardoso Ramos |
+| 202016604  |  João Lucas Miranda de Sousa |
+
+## Sobre
+
 Um jogo educativo que utiliza o algoritmo de Sequence Alignment para avaliar o progresso do jogador na reorganização de frases embaralhadas em múltiplos idiomas.
 
 ##  Descrição
@@ -15,6 +26,9 @@ O jogo apresenta frases embaralhadas ao jogador, que deve reorganizar as letras 
 - **Sistema de pontuação**: Similaridade e distância em tempo real
 - **Cronômetro**: Para com a vitória
 - **Recordes**: Melhores tempos salvos
+
+## Screenshots
+
 
 ##  Dependências
 
