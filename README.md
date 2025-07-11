@@ -1,6 +1,5 @@
 # Sequence Alignment Game
 
-**Número da Lista**:  <br>
 **Conteúdo da Disciplina**: Programação dinâmica <br>
 
 ## Alunos
@@ -172,4 +171,7 @@ python --version
 - **Pygame**: Biblioteca para interface gráfica
 - **Algoritmo de Levenshtein**: Para comparação de strings
 
+## Video
+
+[![Vídeo explicativo](https://img.youtube.com/vi/SXOQxCSrn90/maxresdefault.jpg)](https://youtu.be/SXOQxCSrn90)
 
