@@ -28,7 +28,9 @@ O jogo apresenta frases embaralhadas ao jogador, que deve reorganizar as letras 
 - **Recordes**: Melhores tempos salvos
 
 ## Screenshots
-
+![Tela Inicial](img/inicio.png)
+![Tela de execução do jogo](img/jogando.png)
+![Tela de vitória](img/vitoria.png)
 
 ##  Dependências
 
